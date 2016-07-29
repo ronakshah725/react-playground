@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mult",
+				"multipleSelectedIcon"
+			],
+			[
+				"righ",
+				"rightArrowIcon"
+			],
+			[
+				"filter",
+				"filterIcon"
+			],
+			[
+				"fil",
+				"filterIcon"
+			],
+			[
+				"com",
+				"commentIcon"
+			],
+			[
+				"che",
+				"checkmarkIcon"
+			],
+			[
+				"Form",
+				"FormControlCheckbox"
+			],
+			[
+				"F",
+				"FormControlCheckbox"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"checked",
+				"Checked"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"chec",
+				"checkedStatus"
+			],
+			[
+				"ch",
+				"checkedStatus"
+			],
+			[
+				"dis",
+				"displayName"
+			],
+			[
+				"re",
+				"React"
+			],
+			[
+				"react",
+				"ReactDOM"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"me",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			" \\",
+			" v\\]",
+			" ",
+			" v",
+			"\\\\\\\\\\\\\\\\\\\\\\\\\\",
+			"npm install -g eslint"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/_src/global/tags.jsx",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/_src/global/dispatcher.jsx",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_CSS/global.css",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_CSS/templates.css",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/_src/templates/templates.jsx",
+		"/Users/rshah/Desktop/ui/fetoolkit/README.md",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/global/dispatcher.js",
+		"/Users/rshah/Desktop/template.jsx",
+		"/Users/rshah/Desktop/template.css",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_CSS/worklist.css",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/pages/templates/index.htm",
+		"/Users/rshah/Desktop/ui/fetoolkit/.eslintrc",
+		"/Users/rshah/Desktop/ui/fetoolkit/fetoolkit.js",
+		"/Users/rshah/Desktop/ui/fetoolkit/package.json",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/_src/templates/requireConfig.jsx",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/_src/templates/checkbox.jsx",
+		"/Users/rshah/Desktop/ui/fetoolkit/code/app/_JS/_src/global/global.jsx",
+		"/Users/rshah/Desktop/playgd/webpack.config.js",
+		"/Users/rshah/Desktop/playgd/main.js",
+		"/Users/rshah/Desktop/playgd/App.js",
+		"/Users/rshah/Desktop/playgd/index.html",
+		"/Users/rshah/Desktop/playgd/reactpg.sublime-project",
+		"/Users/rshah/Desktop/playgd/package.json",
+		"/Users/rshah/Desktop/ui/fetoolkit/.babelrc",
+		"/Users/rshah/Desktop/ui/fetoolkit/fetoolkit-mac.js",
+		"/Users/rshah/Desktop/MR2/fetoolkit/package.json",
+		"/Users/rshah/.ssh/id_rsa.pub",
+		"/Users/rshah/Desktop/MR2/fetoolkit/README.md",
+		"/Users/rshah/Desktop/MR2/fetoolkit/code/app/_documentation/UI integration Document.docx",
+		"/Users/rshah/Desktop/ui-master-55c21be863807b91226699048afa841dd83af512/fetoolkit/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"*.jsx",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"svg",
+			"checkmarkIcon",
+			"<svg",
+			"svg",
+			"<svg ",
+			"wf.storage",
+			"FormControlTextArea",
+			"check",
+			"hover",
+			"dropmenu",
+			"hover",
+			" ",
+			"/*\n",
+			"border",
+			"icon",
+			"panel-options",
+			" href=\"javascript:void(0);\" className={'action-btn approve state1' + (!this.state.selectedCases ? ' disabled' : '')}>\n										<span className=\"icon\" dangerouslySetInnerHTML={{__html : this.state.iconObj.checkmarkIcon}}></span> \n										<span className=\"text\" data-defaulttext={'Approve ' + this.state.selectedCases + ' Case' + (Number(this.state.selectedCases) == 1 ? '' : 's')}> {'Approve ' + (!this.state.selectedCases ? '' : this.state.selectedCases) + ' Case' + (Number(this.state.selectedCases) == 1 ? '' : 's')}</span>\n									</a>\n								);",
+			"hid",
+			"hidden",
+			"hide",
+			"_toggle",
+			"#57c9e8",
+			"sendto",
+			"hover",
+			"action-b",
+			"mouse",
+			"event",
+			"module.js",
+			"null",
+			": ",
+			"CheckBox",
+			"DropMenu",
+			"addEventListener",
+			"grid-container",
+			"password"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/rshah/Desktop/playgd/react1"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tags.jsx",
+				"fetoolkit/code/app/_JS/_src/global/tags.jsx"
+			],
+			[
+				"dispa",
+				"fetoolkit/code/app/_JS/_src/global/dispatcher.jsx"
+			],
+			[
+				"tags",
+				"fetoolkit/code/app/_JS/_src/global/tags.jsx"
+			],
+			[
+				"dispatch",
+				"fetoolkit/code/app/_JS/_src/global/dispatcher.jsx"
+			],
+			[
+				"global.css",
+				"fetoolkit/code/app/_CSS/global.css"
+			],
+			[
+				"templa",
+				"fetoolkit/code/app/_CSS/templates.css"
+			],
+			[
+				"templates.jsx",
+				"fetoolkit/code/app/_JS/_src/templates/templates.jsx"
+			],
+			[
+				"index.htm",
+				"fetoolkit/code/app/pages/templates/index.htm"
+			],
+			[
+				"tem",
+				"fetoolkit/code/app/_CSS/templates.css"
+			],
+			[
+				"work",
+				"fetoolkit/code/app/_CSS/worklist.css"
+			],
+			[
+				"eslin",
+				"fetoolkit/.eslintrc"
+			],
+			[
+				"",
+				"main.js"
+			],
+			[
+				"inde",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
